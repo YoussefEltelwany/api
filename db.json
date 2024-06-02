@@ -1,0 +1,51 @@
+{
+  "students": [
+    {
+      "username": "yousef",
+      "email": "y@y.com",
+      "password": "1",
+      "subjects": [
+        {
+          "name": "math",
+          "id": "106c",
+          "degree": 1
+        },
+        {
+          "name": "اللغه العربيه",
+          "id": "1b9b",
+          "degree": 1
+        }
+      ],
+      "id": "4fba"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "math",
+      "questions": [
+        {
+          "question": "2*2",
+          "answer1": "2",
+          "answer2": "4",
+          "answer3": "3",
+          "answer4": "1",
+          "correctAnswer": "4"
+        }
+      ],
+      "id": "106c"
+    }
+  ],
+  "doctor": [
+    {
+      "id": "1",
+      "username": "doctor",
+      "email": "admin@admin.com",
+      "password": "123"
+    }
+  ],
+  "login": [
+    {
+      "id": "1"
+    }
+  ]
+}
